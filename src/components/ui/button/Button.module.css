@@ -1,0 +1,17 @@
+.newQuote {
+  padding: 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: var(--white);
+  background-color: var(--black);
+  box-shadow: 0 0 3px var(--grey);
+  font-family: inherit;
+  cursor: pointer;
+  user-select: none;
+}
+
+.newQuote:hover {
+  box-shadow: 0 0 13px var(--grey);
+}
