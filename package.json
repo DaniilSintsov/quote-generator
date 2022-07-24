@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Daniil Sintsov <daniilsintsov2007@yandex.ru>",
+  "homepage": "https://daniilsintsov.github.io/quote-generator/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
