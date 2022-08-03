@@ -1,4 +1,4 @@
-# react calculator
+# quote generator
 
 ![react](https://img.shields.io/npm/v/react?color=blue&label=react)
 
