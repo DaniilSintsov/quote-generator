@@ -1,8 +1,8 @@
 import React from 'react'
-import Button from '../ui/button/Button'
+import Button from '../Button/Button'
 import classes from './Quote.module.css'
 
-const QuoteComponent = ({onClick, quote, toggle}) => {
+const Quote = ({ onClick, quote }) => {
   return (
     <div className={classes.wrapperQuote}>
       <div className={classes.quoteBox}>
@@ -18,4 +18,4 @@ const QuoteComponent = ({onClick, quote, toggle}) => {
   )
 }
 
-export default QuoteComponent
+export default Quote

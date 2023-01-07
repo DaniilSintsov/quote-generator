@@ -29,7 +29,6 @@ body {
 #root {
   height: 100%;
   background-color: var(--black);
-
 }
 
 .container {
@@ -58,4 +57,3 @@ body {
   opacity: 0.2;
   transition: opacity 300ms;
 }
-
